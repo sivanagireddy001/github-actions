@@ -1,8 +1,8 @@
 # app.py
 #this is my first github actions file
-# This is a test commit
-def add(a, b):
-    return a + b
+
+def add(a, c):
+    return a + c
 
 def test_add():
     assert add(1, 2) == 3
